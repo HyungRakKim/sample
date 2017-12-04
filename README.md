@@ -22,11 +22,9 @@ _________________
 **Install** 
 -------------------------
 > **Java**
-
 	Install JDK/JRE(https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
 
 >**ProtoBuf Gradle**
-
 	Install protobuf gradle plugin(https://github.com/google/protobuf-gradle-plugin)
 
 >**Environment Setting**
