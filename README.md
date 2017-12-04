@@ -19,7 +19,7 @@ Java based STT Sample Recognition
 
 
 _________________
-## **Install** 
+# **Install** 
 -------------------------
 > **Java**
 > - [Install JDK/JRE](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
