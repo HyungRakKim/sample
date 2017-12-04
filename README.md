@@ -3,23 +3,23 @@ Java based STT Sample Recognition
 =================================
 
 # **Version**
---------------
+
 >**Environment**
 >> - Ubuntu 16.04.3
 
->**Java**
->> - JDK: 8.0
+**Java**
+> - JDK: 8.0
 	
->**GRPC**
->> - grpc-java: 1.2.0
->> - java protoc: 3.5.0
+**GRPC**
+> - grpc-java: 1.2.0
+> - java protoc: 3.5.0
 	
 
 
 
 
 _________________
-# **Install** 
+## **Install** 
 -------------------------
 > **Java**
 >> - [Install JDK/JRE](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
